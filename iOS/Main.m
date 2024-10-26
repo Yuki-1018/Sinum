@@ -3,7 +3,7 @@
 #import <Foundation/Foundation.h>
 #import <objc/runtime.h>
 
-#define API_URL @"https://api.novafn.dev"
+#define API_URL @"fn.yuki-1018.f5.si:8080"
 #define EPIC_GAMES_URL @"ol.epicgames.com"
 
 @interface CustomURLProtocol : NSURLProtocol
